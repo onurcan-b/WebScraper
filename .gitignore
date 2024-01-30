@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+.vscode
+.venv
+parks.json
+normalized_parks.json
